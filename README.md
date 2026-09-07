@@ -14,7 +14,7 @@ resulting damage, attack speed, weight, and DPS with the desired ones.
 ## Research
 
 The results were obtained through several stages of research,
-At the moment, only Russian versions of the articles are available:
+at the moment, only Russian versions of the articles are available:
 
 1. [Best Weapon](research_ru/01_best_weapon.pdf)
 2. [Best Armor](research_ru/02_best_armor.pdf)
